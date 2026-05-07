@@ -132,10 +132,6 @@ Follow these steps carefully to run the project:
 ### ⚠️ Empty Cart State
 ![EmptyCard](Screenshots/EmptyCard.png)
 
----
-
-### 📱 Extra Screen
-![Screen1_2](Screenshots/Screen1_2.png)
 
 ---
 
